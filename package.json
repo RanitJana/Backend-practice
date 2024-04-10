@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "This is just a conceptual backend project",
   "type": "module",
-  "main": "app.js",
+  "main": "./src/index.js",
   "scripts": {
-    "start": "node ./src/app.js"
+    "start": "node ./src/index.js"
   },
   "author": "",
   "license": "ISC",
